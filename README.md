@@ -1,43 +1,31 @@
-# Facets of Mathematics – Cubic Curves (End of Theme Assessment)
+# Image Processing – Individual Project
 
-This repository contains my completed **End of Theme Assessment** for the *Facets of Mathematics* course, focusing on **conic and cubic curves over ℂ²**.
-
-The project combines symbolic computation, linear algebra, and algebraic geometry concepts to analyse the existence, uniqueness, and structure of conic and cubic curves passing through prescribed points in the complex plane.
+This repository contains my completed **Image Processing individual project**, where I apply numerical and programming techniques to analyse and manipulate image data using Python.
 
 ---
 
 ## Project Overview
 
-The notebook investigates geometric and algebraic properties of curves in ℂ² by:
-
-- Studying the existence of **conics passing through five given points**
-- Determining **uniqueness and irreducibility** of such conics
-- Constructing **cubic curves** subject to geometric constraints
-- Using **symbolic computation** to solve polynomial systems
-- Supporting analytical arguments with **computational verification**
-
-All results are backed by clear mathematical reasoning and reproducible code.
+The project focuses on working with digital images as numerical arrays and applying fundamental image processing operations. The aim is to demonstrate understanding of how images can be represented, transformed, and analysed computationally.
 
 ---
 
 ## Key Topics Covered
 
-- Algebraic curves in ℂ²  
-- Conics and cubics  
-- Polynomial systems and linear constraints  
-- Irreducibility of algebraic curves  
-- Symbolic computation with `sympy`  
-- Mathematical proof supported by computation  
+- Image representation as arrays  
+- Pixel-wise operations  
+- Image transformations  
+- Basic filtering and manipulation  
+- Visualisation of image data  
+- Clear and structured Python implementation  
 
 ---
 
-## Tools and Libraries Used
+## Structure of the Repository
 
-- Python 3  
-- NumPy  
-- SymPy  
-- Jupyter Notebook  
-
+```
+ip_eot-2.ipynb    # Main notebook containing all image processing tasks and solutions
+```
 ---
 
 ## Author
@@ -49,4 +37,5 @@ University of Edinburgh
 
 ## Acknowledgements
 
-This project was completed as part of the *Facets of Mathematics* course at the University of Edinburgh.
+This project was completed as part of the Image Processing component of the course at the University of Edinburgh.
+
