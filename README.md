@@ -1,4 +1,4 @@
-# Image Processing – Individual Project
+# Image Processing – Image Provessing (End of Theme Assessment)
 
 This repository contains my completed **Image Processing individual project**, where I apply numerical and programming techniques to analyse and manipulate image data using Python.
 
